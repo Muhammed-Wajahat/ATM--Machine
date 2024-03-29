@@ -1,0 +1,19 @@
+{
+  "name": "w4rw-atm-machine",
+  "version": "1.0.1",
+  "description": "CLI Base ATM-Machine Using Typescritp Node.js Inquirer and Chalk.",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wajahat Ali",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
